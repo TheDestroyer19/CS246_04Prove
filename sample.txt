@@ -1,2 +1,3 @@
-Nano is among the best basic text editors
+Nano is the best text editor.
 No it isn't Emacs is the best!
+But Vim is another good one.
