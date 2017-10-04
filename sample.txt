@@ -1,2 +1,2 @@
-Nano is among the best basic text editors
+Notepad is among the best basic text editors
 No it isn't Emacs is the best!
